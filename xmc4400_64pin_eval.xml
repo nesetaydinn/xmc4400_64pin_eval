@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/nesh/Pcb_Designs/Designs/xmc4400_64pin_eval/xmc4400_64pin_eval/xmc4400_64pin_eval.kicad_sch</source>
+    <date>Prş 23 Mar 2023 10:33:49</date>
+    <tool>Eeschema 7.0.1-3b83917a11~171~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>xmc4400_64pin_eval.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8627cce1-c8d3-4ef2-8d7d-9161f4d8eb72</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2506f3d-1a0a-442d-8943-3b5b22138b36</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>300cc76f-1289-4065-9d64-ca92bbc5bd51</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a97eeca-cd48-4c8b-afbb-bdfdd1948943</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/448212_5798276.PDF</datasheet>
+      <fields>
+        <field name="Code">CL05A106MQ5NUNC</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05A106MQ5NUNC</field>
+        <field name="Volt">6.3V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05A106MQ5NUNC"/>
+      <property name="Volt" value="6.3V"/>
+      <property name="Code" value="CL05A106MQ5NUNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6f20287-2fd0-4b93-988e-c336ff773553</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c5cc1ba-2470-40fc-af1c-f46d0c134965</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ae1ac9c-7162-45ea-92f4-856f0bc52d10</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dba78a5f-d584-49f3-9bef-7537713beee5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a91ac00-f7cc-4248-b7b8-296c06534fca</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a33c6fef-8889-4821-9c3c-9bcd30c004ce</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155D81C475ME15-01A.pdf</datasheet>
+      <fields>
+        <field name="Code">GRM155D81C475ME15J</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/murata-electronics/GRM155D81C475ME15J/16821358?s=N4IgTCBcDaIOICUCyBGArGgIgDhQYQBYB2NJAUXQCkQBdAXyA</field>
+        <field name="Volt">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM155D81C475ME15J/16821358?s=N4IgTCBcDaIOICUCyBGArGgIgDhQYQBYB2NJAUXQCkQBdAXyA"/>
+      <property name="Volt" value="16V"/>
+      <property name="Code" value="GRM155D81C475ME15J"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f57de7ea-63e6-4bb3-8e58-8cec13c6dd0b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b04d22b6-0423-44bc-bcdb-3b2c1ebb9de8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/448212_5798276.PDF</datasheet>
+      <fields>
+        <field name="Code">CL10B104KB8NNNC</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/9739/CL10B104KB8NNNC</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/9739/CL10B104KB8NNNC"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CL10B104KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84b57387-6d53-4db6-aeac-016ee397d0ee</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB103</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/746486/CC0402KRX7R9BB103</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/746486/CC0402KRX7R9BB103"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB103"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6d00641-8184-429e-80e8-df174e5e9d1c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/448212_5798276.PDF</datasheet>
+      <fields>
+        <field name="Code">CL05C150JB5NNNC</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05C150JB5NNNC</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05C150JB5NNNC"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CL05C150JB5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02d2091a-9595-4990-a0fd-23b6e23a2280</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/448212_5798276.PDF</datasheet>
+      <fields>
+        <field name="Code">CL05C150JB5NNNC</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05C150JB5NNNC</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/kondansatorler/smd-kondansatorler-mlcc/CL05C150JB5NNNC"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CL05C150JB5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34f84601-6cc7-4575-b66f-6e02862c771b</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/467161_877571.pdf</datasheet>
+      <fields>
+        <field name="Code">C1005X5R1V105K050BC</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/C1005X5R1V105K050BC</field>
+        <field name="Volt">35V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/C1005X5R1V105K050BC"/>
+      <property name="Volt" value="35V"/>
+      <property name="Code" value="C1005X5R1V105K050BC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5759087-dc0d-46fa-8834-1062de7241bd</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/467161_877571.pdf</datasheet>
+      <fields>
+        <field name="Code">C1005X5R1V105K050BC</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/C1005X5R1V105K050BC</field>
+        <field name="Volt">35V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/C1005X5R1V105K050BC"/>
+      <property name="Volt" value="35V"/>
+      <property name="Code" value="C1005X5R1V105K050BC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0de12a96-c4bc-47f7-bf81-bee549ebd216</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/627201_254683.pdf</datasheet>
+      <fields>
+        <field name="Code">CC0402KRX7R9BB104</field>
+        <field name="Stock">https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104</field>
+        <field name="Volt">50V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Stock" value="https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CC0402KRX7R9BB104"/>
+      <property name="Volt" value="50V"/>
+      <property name="Code" value="CC0402KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e65108-6cca-4ee9-bb70-21fe5fc9e64a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Pow</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/358986_9567552.PDF</datasheet>
+      <fields>
+        <field name="Code">LTST-C190KGKT</field>
+        <field name="Stock">https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/LTST-C190KGKT</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Stock" value="https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/LTST-C190KGKT"/>
+      <property name="Code" value="LTST-C190KGKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64db9f89-d893-4339-9382-aea1ae0a781e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>PGB102ST23WRHF</value>
+      <footprint>My_lib:PGB102ST23WRHF</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/679881_103791.pdf</datasheet>
+      <fields>
+        <field name="Code">PGB102ST23WRHF</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/679885/PGB102ST23WRHF</field>
+      </fields>
+      <libsource lib="PGB102ST23WRHF" part="PGB102ST23WRHF" description="Littelfuse 24 V dc PGB1 ESD Suppressor, Surface Mount Mounting"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/679885/PGB102ST23WRHF"/>
+      <property name="Code" value="PGB102ST23WRHF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Littelfuse 24 V dc PGB1 ESD Suppressor, Surface Mount Mounting"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>316b3600-4922-44f4-b74c-e1c15f4f17e2</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>USR</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/358986_9567552.PDF</datasheet>
+      <fields>
+        <field name="Code">LTST-C190KGKT</field>
+        <field name="Stock">https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/LTST-C190KGKT</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Stock" value="https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/LTST-C190KGKT"/>
+      <property name="Code" value="LTST-C190KGKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf684f13-d8dc-42b3-b0c0-1195f508dd28</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>BLM15PD600SN1D</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.com.tr/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="Code">BLM15PD600SN1D</field>
+        <field name="Imp">60R</field>
+        <field name="Stock">https://www.mouser.com.tr/ProductDetail/Murata-Electronics/BLM15PD600SN1D?qs=%2F%252BYoplLUB5jLOEjl%252BfAfXA%3D%3D&amp;gclid=CjwKCAjwq-WgBhBMEiwAzKSH6Im0YISE52fy3QbiuGvQG3P-bgSPRVFvRMa1Z6zIlU5w3XZukzm1cxoCFm4QAvD_BwE</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Stock" value="https://www.mouser.com.tr/ProductDetail/Murata-Electronics/BLM15PD600SN1D?qs=%2F%252BYoplLUB5jLOEjl%252BfAfXA%3D%3D&amp;gclid=CjwKCAjwq-WgBhBMEiwAzKSH6Im0YISE52fy3QbiuGvQG3P-bgSPRVFvRMa1Z6zIlU5w3XZukzm1cxoCFm4QAvD_BwE"/>
+      <property name="Imp" value="60R"/>
+      <property name="Code" value="BLM15PD600SN1D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead, small symbol"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca035ccf-64b6-44a2-87d4-f355bd629832</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TLV75533PDBVR</value>
+      <footprint>My_lib:SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tlv755p</datasheet>
+      <fields>
+        <field name="Code">TLV75533PDBVR</field>
+        <field name="Stock">https://ozdisan.com/entegre-devreler-ics/guc-entegreleri/lineer-voltaj-regulatorleri/TLV75533PDBVR/689994</field>
+      </fields>
+      <libsource lib="TLV75533PDBVR" part="TLV75533PDBVR" description="LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125"/>
+      <property name="Stock" value="https://ozdisan.com/entegre-devreler-ics/guc-entegreleri/lineer-voltaj-regulatorleri/TLV75533PDBVR/689994"/>
+      <property name="Code" value="TLV75533PDBVR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f320c353-9095-4b0c-8cbd-c5c3505f80a8</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>SN65HVD230DR</value>
+      <footprint>My_lib:SOT127P600X175-8N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn65hvd230</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN65HVD230DR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn65hvd230dr/texas-instruments?region=nac</field>
+        <field name="Code">SN65HVD230DR</field>
+        <field name="Description">3.3 V CAN Transceiver with Standby Mode</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN65HVD230DR</field>
+        <field name="Mouser Part Number">595-SN65HVD230DR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65HVD230DR?qs=QViXGNcIEAtifeQR3pYVUQ%3D%3D</field>
+        <field name="Stock">https://www.ozdisan.com/entegre-devreler-ics/interface-entegreleri/ic-drivers-receivers-transceivers/SN65HVD230DR</field>
+      </fields>
+      <libsource lib="SN65HVD230DR" part="SN65HVD230DR" description="3.3 V CAN Transceiver with Standby Mode"/>
+      <property name="Description" value="3.3 V CAN Transceiver with Standby Mode"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="SN65HVD230DR"/>
+      <property name="Mouser Part Number" value="595-SN65HVD230DR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65HVD230DR?qs=QViXGNcIEAtifeQR3pYVUQ%3D%3D"/>
+      <property name="Arrow Part Number" value="SN65HVD230DR"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/sn65hvd230dr/texas-instruments?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Code" value="SN65HVD230DR"/>
+      <property name="Stock" value="https://www.ozdisan.com/entegre-devreler-ics/interface-entegreleri/ic-drivers-receivers-transceivers/SN65HVD230DR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="3.3 V CAN Transceiver with Standby Mode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8137168b-b3e3-40b5-a238-ea4e7a177293</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>VCP</value>
+      <footprint>My_lib:GCT_USB3080-XX-00-A_REVE</footprint>
+      <datasheet>https://www.mouser.com.tr/datasheet/2/837/USB3080-1948937.pdf</datasheet>
+      <fields>
+        <field name="Code">USB3080-30-00-A</field>
+        <field name="Stock">https://www.mouser.com.tr/ProductDetail/GCT/USB3080-30-00-A?qs=KUoIvG%2F9IlZDMJJTQkXE0A%3D%3D</field>
+      </fields>
+      <libsource lib="USB3080-XX-01-A_REVE" part="USB3080-XX-01-A_REVE" description=""/>
+      <property name="Stock" value="https://www.mouser.com.tr/ProductDetail/GCT/USB3080-30-00-A?qs=KUoIvG%2F9IlZDMJJTQkXE0A%3D%3D"/>
+      <property name="Code" value="USB3080-30-00-A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd0408c9-0737-4ee9-b1a4-0d3073e5a818</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SWD &amp; JTAG</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical</footprint>
+      <datasheet>https://media.metz-connect.com/files/171/Data_sheet_PR20BXXVBDN.PDF</datasheet>
+      <fields>
+        <field name="Code">PR20B05VBDN</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/metz-connect-usa-inc/PR20B05VBDN/12342883</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/metz-connect-usa-inc/PR20B05VBDN/12342883"/>
+      <property name="Code" value="PR20B05VBDN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70f7de08-1208-454c-ba38-57a5f3621e87</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>IO_1</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x20_Pin" description="Generic connector, single row, 01x20, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x20, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6cf5c00-953e-4f04-9bf0-394e3c10980f</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>IO_2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x20_Pin" description="Generic connector, single row, 01x20, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x20, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>469ce394-e308-49d3-b50e-d6f7ea9e10b0</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>POW</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x04_Odd_Even" description="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ad2bcdb-d14a-4e8a-87a3-34e9c5442bbc</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>CAN</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f54868a-9423-4248-9578-517a236a1cb1</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Vbat</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22dee451-9bae-40bb-aecd-cd73ae6fa75e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF0000TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Code" value="0402WGF0000TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06567c11-598e-45b9-ab98-ef115abaae3f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF220JTCE</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0402WGF220JTCE</field>
+        <field name="Watt">1/16</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0402WGF220JTCE"/>
+      <property name="Watt" value="1/16"/>
+      <property name="Code" value="0402WGF220JTCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ee298cf-a8d9-4270-bd9d-4bfd0d91037c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF220JTCE</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0402WGF220JTCE</field>
+        <field name="Watt">1/16</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0402WGF220JTCE"/>
+      <property name="Watt" value="1/16"/>
+      <property name="Code" value="0402WGF220JTCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c58eceb2-ec48-4397-a368-521efcffe667</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10kR</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF1002TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/431729/0402WGF1002TCE</field>
+        <field name="Tolerance">%1</field>
+        <field name="Watt">1/16</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/431729/0402WGF1002TCE"/>
+      <property name="Watt" value="1/16"/>
+      <property name="Code" value="0402WGF1002TCE"/>
+      <property name="Tolerance" value="%1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b708842-c414-44d2-8f7c-f7705ac1c9dc</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF0000TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Code" value="0402WGF0000TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7899591c-a4fa-4d7c-869d-a199033ba3d7</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10kR</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF1002TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/431729/0402WGF1002TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/431729/0402WGF1002TCE"/>
+      <property name="Code" value="0402WGF1002TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fd8ecca-de68-4256-a911-263ba38adeb7</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF0000TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Code" value="0402WGF0000TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9d3f647-b581-4cde-8b64-2bf4b24363ac</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0402WGF0000TCE</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/399380/0402WGF0000TCE"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Code" value="0402WGF0000TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5db25e74-adf2-49af-9eef-1c28a1b67dfd</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1MR</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0603SAJ0105TDE</field>
+        <field name="Stock">https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0603SAJ0105TDE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Stock" value="https://www.ozdisan.com/pasif-komponentler/direncler/smt-smd-direncler/0603SAJ0105TDE"/>
+      <property name="Code" value="0603SAJ0105TDE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3085db9b-8c58-43c8-8e9b-249dd318c8e3</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0603SAF1500T5E</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/359782/0603SAF1500T5E</field>
+        <field name="Tolerance">%1</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/359782/0603SAF1500T5E"/>
+      <property name="Code" value="0603SAF1500T5E"/>
+      <property name="Tolerance" value="%1"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3b60e06-935b-4574-acde-b215467bc322</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://cdn.ozdisan.com/ETicaret_Dosya/399380_9872459.pdf</datasheet>
+      <fields>
+        <field name="Code">0603SAF1500T5E</field>
+        <field name="Stock">https://www.ozdisan.com/Product/Detail/359782/0603SAF1500T5E</field>
+        <field name="Tolerance">%1</field>
+        <field name="Watt">1/10</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Stock" value="https://www.ozdisan.com/Product/Detail/359782/0603SAF1500T5E"/>
+      <property name="Code" value="0603SAF1500T5E"/>
+      <property name="Tolerance" value="%1"/>
+      <property name="Watt" value="1/10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22952110-74a1-42a7-a589-731f7bde30d0</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>Reset</value>
+      <footprint>My_lib:PTS526SM15SMTR2LFS</footprint>
+      <datasheet>https://www.ckswitches.com/media/2780/pts526.pdf</datasheet>
+      <fields>
+        <field name="Code">PTS526 SM15 SMTR2 LFS</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/c-k/PTS526-SM15-SMTR2-LFS/10056625</field>
+      </fields>
+      <libsource lib="PTS526_SM08_SMTR2_LFS" part="PTS526_SM08_SMTR2_LFS" description=""/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/c-k/PTS526-SM15-SMTR2-LFS/10056625"/>
+      <property name="Code" value="PTS526 SM15 SMTR2 LFS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ec3db2f-b442-4438-b4c2-583c1a791d09</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>XMC440x-LQFP64</value>
+      <footprint>Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-XMC4400-DS-v01_03-EN.pdf?fileId=5546d462696dbf12016981795855391d</datasheet>
+      <fields>
+        <field name="Code">XMC4400F64F512BAXQMA1</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/infineon-technologies/XMC4400F64F512BAXQMA1/6250127</field>
+      </fields>
+      <libsource lib="xmc" part="XMC440x-LQFP64" description=""/>
+      <property name="Code" value="XMC4400F64F512BAXQMA1"/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/infineon-technologies/XMC4400F64F512BAXQMA1/6250127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7298d03a-db87-488b-bb2d-8c5d1b8d9a28</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ASE-12.000MHZ-LC-T</value>
+      <footprint>My_lib:ASE24576MHZLCT</footprint>
+      <datasheet>https://abracon.com/Oscillators/ASEseries.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ASE-12.000MHZ-LC-T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ase-12.000mhz-lc-t/abracon?region=nac</field>
+        <field name="Code">ASE-12.000MHZ-LC-T</field>
+        <field name="Description">3.3V CMOS Crystal Oscillator 12 MHz</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ABRACON</field>
+        <field name="Manufacturer_Part_Number">ASE-12.000MHZ-LC-T</field>
+        <field name="Mouser Part Number">815-ASE12.000MHZLCT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ABRACON/ASE-12.000MHZ-LC-T?qs=ShQ8XZQtgRv%2FqLZSDridpg%3D%3D</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/abracon-llc/ASE-12-000MHZ-LC-T/1236877?s=N4IgTCBcDaIIIGUCiBaAjGAdABlwWQAkAtFAGQGEUAVEAXQF8g</field>
+      </fields>
+      <libsource lib="ASE-12.000MHZ-LC-T" part="ASE-12.000MHZ-LC-T" description="3.3V CMOS Crystal Oscillator 12 MHz"/>
+      <property name="Description" value="3.3V CMOS Crystal Oscillator 12 MHz"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="ABRACON"/>
+      <property name="Manufacturer_Part_Number" value="ASE-12.000MHZ-LC-T"/>
+      <property name="Mouser Part Number" value="815-ASE12.000MHZLCT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ABRACON/ASE-12.000MHZ-LC-T?qs=ShQ8XZQtgRv%2FqLZSDridpg%3D%3D"/>
+      <property name="Arrow Part Number" value="ASE-12.000MHZ-LC-T"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ase-12.000mhz-lc-t/abracon?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Code" value="ASE-12.000MHZ-LC-T"/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/abracon-llc/ASE-12-000MHZ-LC-T/1236877?s=N4IgTCBcDaIIIGUCiBaAjGAdABlwWQAkAtFAGQGEUAVEAXQF8g"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="3.3V CMOS Crystal Oscillator 12 MHz"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08190910-502f-4085-8003-170fc9c361a8</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>32.768kHz</value>
+      <footprint>My_lib:ABS0716632768KHZT</footprint>
+      <datasheet>https://abracon.com/Resonators/ABS07.pdf</datasheet>
+      <fields>
+        <field name="Code">ABS07-32.768KHZ-T</field>
+        <field name="Stock">https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858?s=N4IgTCBcDaIIICEDKAGA7AWgMxgHRoDYAOAaQAkAtDAFRAF0BfIA</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <property name="Stock" value="https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858?s=N4IgTCBcDaIIICEDKAGA7AWgMxgHRoDYAOAaQAkAtDAFRAF0BfIA"/>
+      <property name="Code" value="ABS07-32.768KHZ-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmc4400_64pin_eval.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal, small symbol"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da8f8ab9-819b-4853-8c7c-3abf38b4ad15</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ASE-12.000MHZ-LC-T" part="ASE-12.000MHZ-LC-T">
+      <description>3.3V CMOS Crystal Oscillator 12 MHz</description>
+      <docs>https://abracon.com/Oscillators/ASEseries.pdf</docs>
+      <fields>
+        <field name="Reference">Y?</field>
+        <field name="Value">ASE-12.000MHZ-LC-T</field>
+        <field name="Footprint">My_lib:ASE24576MHZLCT</field>
+        <field name="Datasheet">https://abracon.com/Oscillators/ASEseries.pdf</field>
+        <field name="Description">3.3V CMOS Crystal Oscillator 12 MHz</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ABRACON</field>
+        <field name="Manufacturer_Part_Number">ASE-12.000MHZ-LC-T</field>
+        <field name="Mouser Part Number">815-ASE12.000MHZLCT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ABRACON/ASE-12.000MHZ-LC-T?qs=ShQ8XZQtgRv%2FqLZSDridpg%3D%3D</field>
+        <field name="Arrow Part Number">ASE-12.000MHZ-LC-T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ase-12.000mhz-lc-t/abracon?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TRI-STATE_(STBY)" type="passive"/>
+        <pin num="2" name="GND/CASE" type="passive"/>
+        <pin num="3" name="OUTPUT" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x20_Pin">
+      <description>Generic connector, single row, 01x20, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x20_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x04_Odd_Even">
+      <description>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x04_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_Small">
+      <description>Two pin crystal, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PGB102ST23WRHF" part="PGB102ST23WRHF">
+      <description>Littelfuse 24 V dc PGB1 ESD Suppressor, Surface Mount Mounting</description>
+      <docs>https://www.arrow.com/en/products/pgb102st23wrhf/littelfuse</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PGB102ST23WRHF</field>
+        <field name="Footprint">My_lib:PGB102ST23WRHF</field>
+        <field name="Datasheet">https://www.arrow.com/en/products/pgb102st23wrhf/littelfuse</field>
+        <field name="Description">Littelfuse 24 V dc PGB1 ESD Suppressor, Surface Mount Mounting</field>
+        <field name="Height">0.79</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">PGB102ST23WRHF</field>
+        <field name="Mouser Part Number">576-PGB102ST23WRHF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/PGB102ST23WRHF?qs=fp%2Fo%2FcJ74okPR%252BObddBOzw%3D%3D</field>
+        <field name="Arrow Part Number">PGB102ST23WRHF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pgb102st23wrhf/littelfuse</field>
+        <field name="Mouser Testing Part Number">576-PGB102ST23WR</field>
+        <field name="Mouser Testing Price/Link">https://www.mouser.com.tr/ProductDetail/Littelfuse/PGB102ST23WR?qs=gu7KAQ731USXMlhUbskO0Q%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PTS526_SM08_SMTR2_LFS" part="PTS526_SM08_SMTR2_LFS">
+      <docs>https://www.mouser.com.tr/datasheet/2/240/pts526-3050698.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">PTS526_SM08_SMTR2_LFS</field>
+        <field name="Footprint">SW_PTS526_SM08_SMTR2_LFS</field>
+        <field name="Datasheet">https://www.mouser.com.tr/datasheet/2/240/pts526-3050698.pdf</field>
+        <field name="Stock">https://www.mouser.com.tr/ProductDetail/CK/PTS526-SM08-SMTR2-LFS?qs=UXgszm6BlbFgRZzlfGAMFg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SN65HVD230DR" part="SN65HVD230DR">
+      <description>3.3 V CAN Transceiver with Standby Mode</description>
+      <docs>http://www.ti.com/lit/gpn/sn65hvd230</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SN65HVD230DR</field>
+        <field name="Footprint">My_lib:SOT127P600X175-8N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn65hvd230</field>
+        <field name="Description">3.3 V CAN Transceiver with Standby Mode</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN65HVD230DR</field>
+        <field name="Mouser Part Number">595-SN65HVD230DR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65HVD230DR?qs=QViXGNcIEAtifeQR3pYVUQ%3D%3D</field>
+        <field name="Arrow Part Number">SN65HVD230DR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn65hvd230dr/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="VCC" type="passive"/>
+        <pin num="4" name="R" type="passive"/>
+        <pin num="5" name="VREF" type="passive"/>
+        <pin num="6" name="CANL" type="passive"/>
+        <pin num="7" name="CANH" type="passive"/>
+        <pin num="8" name="RS" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TLV75533PDBVR" part="TLV75533PDBVR">
+      <description>LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125</description>
+      <docs>http://www.ti.com/lit/gpn/tlv755p</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TLV75533PDBVR</field>
+        <field name="Footprint">My_lib:SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tlv755p</field>
+        <field name="Stock">https://ozdisan.com/entegre-devreler-ics/guc-entegreleri/lineer-voltaj-regulatorleri/TLV75533PDBVR/689994</field>
+        <field name="Code">TLV75533PDBVR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB3080-XX-01-A_REVE" part="USB3080-XX-01-A_REVE">
+      <docs>https://www.mouser.com.tr/datasheet/2/837/USB3080-1948937.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB3080-XX-01-A_REVE</field>
+        <field name="Footprint">My_lib:GCT_USB3080-XX-01-A_REVE</field>
+        <field name="Datasheet">https://www.mouser.com.tr/datasheet/2/837/USB3080-1948937.pdf</field>
+        <field name="Stock">https://www.mouser.com.tr/ProductDetail/GCT/USB3080-30-00-A?qs=KUoIvG%2F9IlZDMJJTQkXE0A%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SHIELD" type="power_in"/>
+        <pin num="7" name="SHIELD" type="power_in"/>
+        <pin num="8" name="SHIELD" type="power_in"/>
+        <pin num="9" name="SHIELD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="xmc" part="XMC440x-LQFP64">
+      <docs>https://www.mouser.com.tr/datasheet/2/196/infn_s_a0006625521_1-2271430.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XMC440x-LQFP64</field>
+        <field name="Footprint">Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm</field>
+        <field name="Datasheet">https://www.mouser.com.tr/datasheet/2/196/infn_s_a0006625521_1-2271430.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P0.1" type="bidirectional"/>
+        <pin num="2" name="P0.0" type="bidirectional"/>
+        <pin num="3" name="P0.10" type="bidirectional"/>
+        <pin num="4" name="P0.9" type="bidirectional"/>
+        <pin num="5" name="USB_DM" type="bidirectional"/>
+        <pin num="6" name="USB_DP" type="bidirectional"/>
+        <pin num="7" name="VBUS" type="bidirectional"/>
+        <pin num="8" name="VDDP" type="power_in"/>
+        <pin num="9" name="VDDC" type="power_in"/>
+        <pin num="10" name="HIB_IO_0" type="passive"/>
+        <pin num="11" name="RTC_XTAL1" type="passive"/>
+        <pin num="12" name="RTC_XTAL2" type="passive"/>
+        <pin num="13" name="VBAT" type="power_in"/>
+        <pin num="14" name="P14.14" type="bidirectional"/>
+        <pin num="15" name="P14.7" type="bidirectional"/>
+        <pin num="16" name="P14.6" type="bidirectional"/>
+        <pin num="17" name="P14.5" type="bidirectional"/>
+        <pin num="18" name="P14.4" type="bidirectional"/>
+        <pin num="19" name="P14.3" type="bidirectional"/>
+        <pin num="20" name="P14.0" type="bidirectional"/>
+        <pin num="21" name="VAGND" type="power_in"/>
+        <pin num="22" name="VAREF" type="bidirectional"/>
+        <pin num="23" name="P14.9" type="bidirectional"/>
+        <pin num="24" name="P14.8" type="bidirectional"/>
+        <pin num="25" name="VDDC" type="power_in"/>
+        <pin num="26" name="VDDP" type="power_in"/>
+        <pin num="27" name="P2.9" type="bidirectional"/>
+        <pin num="28" name="P2.8" type="bidirectional"/>
+        <pin num="29" name="P2.5" type="bidirectional"/>
+        <pin num="30" name="P2.4" type="bidirectional"/>
+        <pin num="31" name="P2.3" type="bidirectional"/>
+        <pin num="32" name="P2.2" type="bidirectional"/>
+        <pin num="33" name="P2.1" type="bidirectional"/>
+        <pin num="34" name="P2.0" type="bidirectional"/>
+        <pin num="35" name="P2.7" type="bidirectional"/>
+        <pin num="36" name="P2.6" type="bidirectional"/>
+        <pin num="37" name="VSS" type="power_in"/>
+        <pin num="38" name="VDDP" type="power_in"/>
+        <pin num="39" name="XTAL1" type="passive"/>
+        <pin num="40" name="XTAL2" type="passive"/>
+        <pin num="41" name="VSSO" type="power_in"/>
+        <pin num="42" name="VDDC" type="power_in"/>
+        <pin num="43" name="PORST" type="input"/>
+        <pin num="44" name="TMS/SWCLK" type="bidirectional"/>
+        <pin num="45" name="TCK/SWDIO" type="bidirectional"/>
+        <pin num="46" name="P1.15" type="bidirectional"/>
+        <pin num="47" name="P1.5" type="bidirectional"/>
+        <pin num="48" name="P1.4" type="bidirectional"/>
+        <pin num="49" name="P1.3" type="bidirectional"/>
+        <pin num="50" name="P1.2" type="bidirectional"/>
+        <pin num="51" name="P1.1" type="bidirectional"/>
+        <pin num="52" name="P1.0" type="bidirectional"/>
+        <pin num="53" name="P1.9" type="bidirectional"/>
+        <pin num="54" name="P1.8" type="bidirectional"/>
+        <pin num="55" name="VDDC" type="power_in"/>
+        <pin num="56" name="VDDP" type="power_in"/>
+        <pin num="57" name="P0.8" type="bidirectional"/>
+        <pin num="58" name="P0.7" type="bidirectional"/>
+        <pin num="59" name="P0.11" type="bidirectional"/>
+        <pin num="60" name="P0.6" type="bidirectional"/>
+        <pin num="61" name="P0.5" type="bidirectional"/>
+        <pin num="62" name="P0.4" type="bidirectional"/>
+        <pin num="63" name="P0.3" type="bidirectional"/>
+        <pin num="64" name="P0.2" type="bidirectional"/>
+        <pin num="65" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ASE-12.000MHZ-LC-T">
+      <uri>/home/nesh/Pcb_Designs/Libraries/ASE-12.000MHZ-LC-T/ASE-12.000MHZ-LC-T.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="PGB102ST23WRHF">
+      <uri>/home/nesh/Pcb_Designs/Libraries/PGB102ST23WRHF/PGB102ST23WRHF.kicad_sym</uri>
+    </library>
+    <library logical="PTS526_SM08_SMTR2_LFS">
+      <uri>/home/nesh/Pcb_Designs/Libraries/smd button 4x4x15/PTS526_SM08_SMTR2_LFS.kicad_sym</uri>
+    </library>
+    <library logical="SN65HVD230DR">
+      <uri>/home/nesh/Pcb_Designs/Libraries/SN65HVD230DR/SN65HVD230DR.kicad_sym</uri>
+    </library>
+    <library logical="TLV75533PDBVR">
+      <uri>/home/nesh/Pcb_Designs/Libraries/TLV75533PDBVR/TLV75533PDBVR.kicad_sym</uri>
+    </library>
+    <library logical="USB3080-XX-01-A_REVE">
+      <uri>/home/nesh/Pcb_Designs/Libraries/USB3080-30-01-A/USB3080-XX-01-A_REVE.kicad_sym</uri>
+    </library>
+    <library logical="xmc">
+      <uri>/home/nesh/Pcb_Designs/Libraries/XMC/xmc.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="IN" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="2" name="+XMC_VBAT">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="3" name="/VCP_D+">
+      <node ref="D2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/VCP_D-">
+      <node ref="D2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="VAGND" pintype="power_in"/>
+      <node ref="U1" pin="37" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="41" pinfunction="VSSO" pintype="power_in"/>
+      <node ref="U1" pin="65" pinfunction="EP" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="GND/CASE" pintype="passive"/>
+    </net>
+    <net code="6" name="GNDA">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J1" pin="7" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J1" pin="8" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J1" pin="9" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="IC_CAN_+">
+      <node ref="IC2" pin="7" pinfunction="CANH" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="8" name="IC_CAN_-">
+      <node ref="IC2" pin="6" pinfunction="CANL" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(IC2-RS)">
+      <node ref="IC2" pin="8" pinfunction="RS" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J1-VBUS)">
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(J2-Pin_9)">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(U1-VAREF)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="VAREF" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="P0_0">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="P0.0" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="P0_1">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="P0.1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="P0_2">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="64" pinfunction="P0.2" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="P0_3">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="63" pinfunction="P0.3" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="P0_4">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="62" pinfunction="P0.4" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="P0_5">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="61" pinfunction="P0.5" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="P0_6">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U1" pin="60" pinfunction="P0.6" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="P0_7">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U1" pin="58" pinfunction="P0.7" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="P0_8">
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U1" pin="57" pinfunction="P0.8" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="P0_9">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="P0.9" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="P0_10">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="P0.10" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="P0_11">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="59" pinfunction="P0.11" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="P1_0">
+      <node ref="J3" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U1" pin="52" pinfunction="P1.0" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="P1_1">
+      <node ref="J3" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U1" pin="51" pinfunction="P1.1" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="P1_2">
+      <node ref="J3" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U1" pin="50" pinfunction="P1.2" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="P1_3">
+      <node ref="J3" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="U1" pin="49" pinfunction="P1.3" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="P1_4">
+      <node ref="J4" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="48" pinfunction="P1.4" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="P1_5">
+      <node ref="J4" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="P1.5" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="P1_8">
+      <node ref="J3" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U1" pin="54" pinfunction="P1.8" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="P1_9">
+      <node ref="J3" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U1" pin="53" pinfunction="P1.9" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="P1_15">
+      <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="P1.15" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="P2_0">
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="P2.0" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="P2_1">
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="P2.1" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="P2_2">
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="P2.2" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="P2_3">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="P2.3" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="P2_4">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="P2.4" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="P2_5">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="P2.5" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="P2_6">
+      <node ref="J4" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="P2.6" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="P2_7">
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="P2.7" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="P2_8">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="P2.8" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="P2_9">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="P2.9" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="P14_0">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="P14.0" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="P14_3">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="P14.3" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="P14_4">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="P14.4" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="P14_5">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="P14.5" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="P14_6">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="P14.6" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="P14_7">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="P14.7" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="P14_8">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="P14.8" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="P14_9">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="P14.9" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="P14_14">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="P14.14" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="SWDO_P2.1">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="VBUS">
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="XMC_CAN_RX">
+      <node ref="IC2" pin="4" pinfunction="R" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="XMC_CAN_TX">
+      <node ref="IC2" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="XMC_RESET">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="S1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="PORST" pintype="input"/>
+    </net>
+    <net code="60" name="XMC_RTC_XTAL1">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="RTC_XTAL1" pintype="passive"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="XMC_RTC_XTAL2">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="RTC_XTAL2" pintype="passive"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="XMC_TCK{slash}SWCLK">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="TMS/SWCLK" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="XMC_TMS{slash}SWDIO">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="TCK/SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="XMC_USB_D+">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="XMC_USB_D-">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="XMC_VDDC">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="VDDC" pintype="power_in"/>
+      <node ref="U1" pin="42" pinfunction="VDDC" pintype="power_in"/>
+      <node ref="U1" pin="55" pinfunction="VDDC" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="VDDC" pintype="power_in"/>
+    </net>
+    <net code="67" name="XMC_VDDP">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="OUT" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="VCC" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="56" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VDDP" pintype="power_in"/>
+      <node ref="Y1" pin="1" pinfunction="TRI-STATE_(STBY)" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="68" name="XMC_XTAL1">
+      <node ref="U1" pin="39" pinfunction="XTAL1" pintype="passive"/>
+      <node ref="Y1" pin="3" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="69" name="unconnected-(IC1-NC-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(IC2-VREF-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="VREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J1-ID-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J2-Pin_7-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(S1-Pad2)">
+      <node ref="S1" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(S1-Pad4)">
+      <node ref="S1" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-HIB_IO_0-Pad10)">
+      <node ref="U1" pin="10" pinfunction="HIB_IO_0" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-XTAL2-Pad40)">
+      <node ref="U1" pin="40" pinfunction="XTAL2" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
