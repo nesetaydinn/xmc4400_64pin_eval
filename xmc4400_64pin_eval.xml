@@ -2,16 +2,16 @@
 <export version="E">
   <design>
     <source>/home/nesh/Pcb_Designs/Designs/xmc4400_64pin_eval/xmc4400_64pin_eval/xmc4400_64pin_eval.kicad_sch</source>
-    <date>Prş 23 Mar 2023 10:33:49</date>
-    <tool>Eeschema 7.0.1-3b83917a11~171~ubuntu20.04.1</tool>
+    <date>Çrş 03 May 2023 12:24:14</date>
+    <tool>Eeschema 7.0.1-3b83917a11~172~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title/>
+        <title>XMC4400-64PIN-EVAL-V1.0</title>
         <company/>
-        <rev/>
-        <date/>
+        <rev>0.0</rev>
+        <date>2023-03-23</date>
         <source>xmc4400_64pin_eval.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="Designed By Neşet Aydın"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
@@ -864,7 +864,7 @@
         <field name="Code">XMC4400F64F512BAXQMA1</field>
         <field name="Stock">https://www.digikey.com/en/products/detail/infineon-technologies/XMC4400F64F512BAXQMA1/6250127</field>
       </fields>
-      <libsource lib="xmc" part="XMC440x-LQFP64" description=""/>
+      <libsource lib="xmc" part="XMC440x-64" description=""/>
       <property name="Code" value="XMC4400F64F512BAXQMA1"/>
       <property name="Stock" value="https://www.digikey.com/en/products/detail/infineon-technologies/XMC4400F64F512BAXQMA1/6250127"/>
       <property name="Sheetname" value=""/>
@@ -1256,13 +1256,13 @@
         <pin num="9" name="SHIELD" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="xmc" part="XMC440x-LQFP64">
-      <docs>https://www.mouser.com.tr/datasheet/2/196/infn_s_a0006625521_1-2271430.pdf</docs>
+    <libpart lib="xmc" part="XMC440x-64">
+      <docs>https://www.infineon.com/dgdl/Infineon-XMC4400-DS-v01_03-EN.pdf?fileId=5546d462696dbf12016981795855391d</docs>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">XMC440x-LQFP64</field>
         <field name="Footprint">Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm</field>
-        <field name="Datasheet">https://www.mouser.com.tr/datasheet/2/196/infn_s_a0006625521_1-2271430.pdf</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-XMC4400-DS-v01_03-EN.pdf?fileId=5546d462696dbf12016981795855391d</field>
       </fields>
       <pins>
         <pin num="1" name="P0.1" type="bidirectional"/>
@@ -1308,8 +1308,8 @@
         <pin num="41" name="VSSO" type="power_in"/>
         <pin num="42" name="VDDC" type="power_in"/>
         <pin num="43" name="PORST" type="input"/>
-        <pin num="44" name="TMS/SWCLK" type="bidirectional"/>
-        <pin num="45" name="TCK/SWDIO" type="bidirectional"/>
+        <pin num="44" name="TMS/SWDIO" type="bidirectional"/>
+        <pin num="45" name="TCK/SWCLK" type="bidirectional"/>
         <pin num="46" name="P1.15" type="bidirectional"/>
         <pin num="47" name="P1.5" type="bidirectional"/>
         <pin num="48" name="P1.4" type="bidirectional"/>
@@ -1669,11 +1669,11 @@
     </net>
     <net code="62" name="XMC_TCK{slash}SWCLK">
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="U1" pin="44" pinfunction="TMS/SWCLK" pintype="bidirectional"/>
+      <node ref="U1" pin="45" pinfunction="TCK/SWCLK" pintype="bidirectional"/>
     </net>
     <net code="63" name="XMC_TMS{slash}SWDIO">
       <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="U1" pin="45" pinfunction="TCK/SWDIO" pintype="bidirectional"/>
+      <node ref="U1" pin="44" pinfunction="TMS/SWDIO" pintype="bidirectional"/>
     </net>
     <net code="64" name="XMC_USB_D+">
       <node ref="R2" pin="1" pintype="passive"/>
